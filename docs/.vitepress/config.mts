@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "emily's epic blog",
+    title: "emily's epic portfolio",
     description: "6.1040 Fall 2024",
     base: "/portfolio-emilychen/",
     themeConfig: {

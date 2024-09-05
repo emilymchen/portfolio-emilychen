@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: "emily's epic blog"
+    name: "emily's epic portfolio"
     text: "by emily"
     tagline: "2024"
     actions:
