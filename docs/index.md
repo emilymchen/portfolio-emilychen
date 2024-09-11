@@ -24,4 +24,8 @@ features:
     - title: About Me
       details: You'll implement a small bio about yourself on here!
       link: /about
+    - title: Interview with Z - Raw Notes
+      link: /z-interview
+    - title: Interview with Sophie - Raw Notes
+      link: /sophie-interview
 ---
