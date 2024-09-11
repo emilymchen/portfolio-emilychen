@@ -4,7 +4,7 @@ layout: doc
 
 # Interview with Sophie - Raw Notes
 
-[Assignment 1](/assignments/assignment1#interview-with-sophie-raw-notes)
+[Assignment 1](/assignments/assignment1#interview-with-sophie-link-to-raw-notes)
 
 1. Can you tell me a bit about yourself? (interests, hobbies, profession, etc)
 

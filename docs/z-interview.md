@@ -4,7 +4,7 @@ layout: doc
 
 # Interview with Z - Raw Notes
 
-[Assignment 1](/assignments/assignment1#interview-with-z-raw-notes)
+[Assignment 1](/assignments/assignment1#interview-with-z-link-to-raw-notes)
 
 1. Can you tell me a bit about yourself? (interests, hobbies, profession, etc)
 
