@@ -193,28 +193,22 @@ For example, flows for an online bookstore might include: looking for a book; or
 
 As you put together the storyboards, note down things that feel brittle or unclear about the flow—these will serve as fodder to prompt your work in the next (convergent) phase of the design process.
 
----
+### Storyboard 1: Purchase Pause
 
-Flow 1: Donating Clothes to a Local Center
+Goal: Give users time to reflect and think about whether they really want to buy something, in order to prevent impulse purchases.
 
-Motivation: The user wants to declutter their wardrobe by giving away clothes they no longer wear.
-Steps:
-User opens the app and navigates to the "Donate Clothes" section.
-They enter their location, and the app shows nearby donation centers accepting items.
-The user selects a center and uploads pictures of their clothes to schedule a drop-off.
-The app confirms the time and place for the donation, and the user receives a digital receipt.
-Flow 2: Posting an OOTD
+![purchasepause](/../assets/images/purchase_pause.png)
 
-Motivation: The user wants to show how they styled an old pair of jeans in a new way.
-Steps:
-The user takes a picture of their outfit and uploads it to the OOTD section.
-They tag the items from their closet inventory, adding descriptions about where they got each item.
-Other users can like, comment, and ask for advice on how to mix-and-match similar pieces.
-Flow 3: Finding New Sustainable Fashion Brands
+### Storyboard 2: Local Donation
 
-Motivation: The user wants to find new brands that align with their sustainability goals.
-Steps:
-User navigates to the sustainability score section of the app.
-They browse through a list of rated brands, filtered by their personal style preferences.
-The user taps on a brand to view more details, such as the price range and eco-friendly certifications.
-The user adds their favorite brands to their style board for future shopping consideration.
+Goal: Allow the user wants to declutter their wardrobe by giving away clothes they no longer wear.
+
+Unclear: what value does this provide over searching on Google Maps?
+
+![clothingdonation](/../assets/images/clothing_donation.png)
+
+### Storyboard 3: OOTD (Outfit Of The Day)
+
+Goal: Allow users to share how they have stylized old clothes in new ways and share their fashion sense!
+
+![ootd](/../assets/images/ootd.png)
