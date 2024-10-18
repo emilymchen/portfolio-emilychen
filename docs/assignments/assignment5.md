@@ -69,3 +69,7 @@ https://www.figma.com/design/fbNzoYqpThmLuCrPiZCmdR/ReWear?node-id=0-1&node-type
 -   Progressive disclosure is pretty well applied, so only necessary information (e.g. image of a clothing article for donation) is shown at first, and more details are revealed as users interact with the system (click on a clothing article to see its brand, size, etc). This makes the interface less overwhelming and helps users focus on their current task.
 
 ## Implementation
+
+https://github.com/emilymchen/rewear-frontend
+
+https://rewear-frontend.vercel.app/
