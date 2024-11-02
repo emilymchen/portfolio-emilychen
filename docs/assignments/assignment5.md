@@ -73,3 +73,7 @@ https://www.figma.com/design/fbNzoYqpThmLuCrPiZCmdR/ReWear?node-id=0-1&node-type
 https://github.com/emilymchen/rewear-frontend
 
 https://rewear-frontend.vercel.app/
+
+## Design Study
+
+https://docs.google.com/presentation/d/1GLrreGvyV7ps_b_Ym0rzqYnxVfbwCPbxz3pFHDZrx3U/edit?usp=sharing
