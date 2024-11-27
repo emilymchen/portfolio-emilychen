@@ -5,11 +5,11 @@ layout: doc
 
 # Design That Matters II - Blog on Techno-Optimism
 
-In recent years, I've felt more and more overwhelmed with the amount of negative news that I see every day. It's not just that bad news dominates our timelines and feeds, but that it shapes how we see the world, grabbing our attention, generating clicks, and just amplifying a collective sense of doom. Personally, it's been exhausting.
+In recent years, I've felt more and more overwhelmed with the amount of negative news that I see every day. It's not just that bad news dominates our timelines and feeds, but that it shapes how we see the world, grabbing our attention, generating clicks, and just amplifying a collective sense of doom. Personally, I've found it exhausting.
 
-So, when Lyel brought up Marc Andreessen's theory of techno-optimism in lecture this week, it felt like a much needed perspective shift compared to most of the media I've been consuming. The idea that technology could be overwhelmingly a force for good brought hope, but I was also confused how someone as renowned as Andreessen could call stakeholder capitalism the "enemy of progress".
+So, when Lyel brought up Marc Andreessen's theory of techno-optimism in lecture this week, it felt like a much needed perspective shift compared to most of the media I've been consuming. The idea that technology could be overwhelmingly a force for good brought hope, but I was also confused how someone as renowned as Andreessen could call stakeholder capitalism, something our entire class agreed upon as being important, the "enemy of progress".
 
-I went to the source to see for myself: [the Techno-Optimism manifesto](https://a16z.com/the-techno-optimist-manifesto/), published in October 2023.
+I went to the source to see his argument for myself: [the Techno-Optimism manifesto](https://a16z.com/the-techno-optimist-manifesto/), published in October 2023.
 
 Andreessen argues that technology is humanity’s greatest creative force, and that “everything good is downstream of growth”. His framing resonated with me in some ways - as a society, we are indeed constantly told to be miserable about the future - about climate change, inequality, political polarization, job obsolescence - the list goes on. Techno-optimism challenges that narrative, daring us to believe in human ingenuity and progress as something that will bring a brighter future. But I can’t help but take issue with the idea that this growth has to come at the cost of responsible innovation and ethics in tech.
 
