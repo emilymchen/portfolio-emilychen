@@ -64,10 +64,44 @@ Sydney had a positive experience with browsing OOTDs and appreciated the filteri
 
 She also noted that she would like to see a designated place for a list of her favorited items, and that favoriting both donation listings in addition to OOTDs would be useful so she could mark items she was potentially interested in for later reference. Other than that, she found marking items for donation to be straightforward as well.
 
-#### Observations for Improvement:
+### Flaws / Opportunities for Improvement:
 
--   **Toggle for Adding Items (Conceptual, Moderate):** Switching between item types during the adding process was inconvenient, making it less efficient for users adding diverse items.
--   **Improved OOTD Modal (Physical, Major):** The lack of a scrolling feature in the ‘all’ section made item selection difficult since they cannot see all the items on their screen or the post button, disrupting the user’s flow.
--   **Donation Messaging Prompts (Linguistic, Moderate):** Providing guidance on what to include in messages (e.g., pickup details) could make the donation process smoother.
--   **Enhanced Filtering for Donation Items (Conceptual, Moderate):** Adding filters for size, condition, or type would streamline the browsing experience.
--   **Confirmation Modal for Post Deletion (Physical, Minor):** Adding a confirmation step would reduce the chance of accidental deletions.
+#### Toggle for Adding Items
+
+**Level:** Conceptual  
+**Severity:** Moderate  
+**Flaw/Opportunity:** Puloma and Sydney both found it inconvenient to add multiple types of clothing items in succession, as there is no quick way to toggle between categories such as tops, bottoms, shoes, and accessories. This disruption makes the process inefficient for users adding diverse items at once.  
+**Why It’s Occurring:** The current design assumes users will add items of a single type repeatedly, without accounting for scenarios where users need to switch categories frequently. This lack of a persistent toggle or shortcut adds unnecessary friction to the flow.  
+**Proposed Solution:** Introduce a category toggle or dropdown menu that allows users to switch item types without leaving the current screen. Alternatively, implement a bulk-add feature where users can input multiple items across different categories within a single form, streamlining the process.
+
+#### Improved OOTD Modal
+
+**Level:** Physical  
+**Severity:** Major  
+**Flaw/Opportunity:** The modal used for selecting clothing articles in an OOTD post is difficult to navigate when in the "all" section, as it lacks a scrolling feature. This limitation prevents users from viewing all items in their closet and can obstruct the post button, interrupting the posting flow.  
+**Why It’s Occurring:** The modal is not responsive and goes off the screen when there are many items, which does not accommodate larger inventories or ensure all interface elements remain accessible on-screen.
+**Proposed Solution:** Enable vertical scrolling within the modal to allow users to view all items and interact with buttons without obstruction.
+
+#### Donation Messaging Prompts
+
+**Level:** Linguistic  
+**Severity:** Moderate  
+**Flaw/Opportunity:** When requesting a donation item, users were unsure what information to include, such as pickup location, time, or item details. This lack of guidance resulted in incomplete messages and the need for additional back-and-forth communication.  
+**Why It’s Occurring:** The messaging interface does not provide prompts or suggestions, leaving users to guess what information is necessary for successful communication.  
+**Proposed Solution:** Add placeholder text or a list of suggested prompts within the messaging box (e.g., "Include your preferred pickup time and location" or "Specify the item you're inquiring about"). A short checklist or tooltip near the form could further guide users and standardize interactions.
+
+#### Enhanced Filtering for Donation Items
+
+**Level:** Conceptual  
+**Severity:** Moderate  
+**Flaw/Opportunity:** Users browsing donation items found the experience inefficient due to the inability to filter by attributes such as size, condition, or type of clothing. This limitation made finding suitable items more time-consuming and frustrating.  
+**Why It’s Occurring:** Filtering options are currently limited to broad categories, with no functionality for detailed attributes. This creates unnecessary friction when users have specific criteria in mind.  
+**Proposed Solution:** Expand filtering functionality to include attributes such as size, condition, color, and brand. Implement a multi-filter interface where users can combine criteria (e.g., "size M + good condition") to streamline the browsing experience and reduce time spent searching.
+
+### Confirmation Modal for Post Deletion
+
+**Level:** Physical  
+**Severity:** Minor  
+**Flaw/Opportunity:** Deleting an OOTD post is currently a single-click action, increasing the likelihood of accidental deletions. Although users can recreate deleted posts, this adds unnecessary frustration and time.  
+**Why It’s Occurring:** The system lacks a confirmation step for deletions, which can lead to errors if users click the delete button unintentionally.  
+**Proposed Solution:** Add a confirmation modal that asks, "Are you sure you want to delete this post?" before completing the action. Optionally, include an “Undo” option immediately after deletion to further reduce the impact of accidental actions.
